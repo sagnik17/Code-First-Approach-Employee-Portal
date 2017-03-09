@@ -1,0 +1,68 @@
+﻿@model EmployeePortal_Assignment.Models.Employee
+
+@{
+    ViewBag.Title = "UserDetails";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>User Details</h2>
+
+<div>
+    <hr />
+    @if (ViewBag.EditStatus != null)
+    {
+        <div class="alert alert-dismissible alert-success">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            <strong>@ViewBag.EditStatus</strong>
+        </div>
+    }
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>Employee Name</th>
+            <td>@Html.DisplayFor(model => model.FirstName)&nbsp;@Html.DisplayFor(model => model.LastName)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.UserName)</th>
+            <td>@Html.DisplayFor(model => model.UserName)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Gender)</th>
+            <td>@Html.DisplayFor(model => model.Gender)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.EmailID)</th>
+            <td>@Html.DisplayFor(model => model.EmailID)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.DOJ)</th>
+            <td>@Html.DisplayFor(model => model.DOJ)</td>
+        </tr>
+        <tr>
+            <td></td><td></td>
+        </tr>
+    </table>
+   @*<center>@Html.ActionLink("Update Profile", "EditDetails", "Account", new { @class = "btn btn-info" }) </center>*@
+</div>
+<h2>Department Details</h2>
+<div>
+    <hr />
+    <table class="table table-striped table-hover">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Department.DId)</th>
+            <td>@Html.DisplayFor(model => model.Department.DId)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Department.Name)</th>
+            <td>@Html.DisplayFor(model => model.Department.Name)</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Department.Location)</th>
+            <td>@Html.DisplayFor(model => model.Department.Location)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+

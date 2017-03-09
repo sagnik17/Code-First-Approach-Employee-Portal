@@ -1,0 +1,573 @@
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\ApplicationInsights.config
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\csc.exe
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Owin.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\WebGrease.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\ApplicationInsights.config
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\csc.exe
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Owin.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\WebGrease.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+F:\POC\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\ApplicationInsights.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\csc.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\WebGrease.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\ApplicationInsights.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\csc.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Owin.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\WebGrease.dll
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\EmployeePortal-Assignment (1)\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\ApplicationInsights.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\csc.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\WebGrease.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\ApplicationInsights.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\csc.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Owin.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\WebGrease.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+D:\Projects\EmployeePortal-Assignment-Sagnik Saha\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\ApplicationInsights.config
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\csc.exe
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\vbc.exe
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll.config
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EmployeePortal-Assignment.pdb
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Owin.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\WebGrease.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.Web.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.ApplicationInsights.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Helpers.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Mvc.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Optimization.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.Razor.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Antlr3.Runtime.pdb
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Newtonsoft.Json.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\EntityFramework.SqlServer.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
+C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb

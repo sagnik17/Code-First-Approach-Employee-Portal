@@ -1,0 +1,84 @@
+﻿@model IEnumerable<EmployeePortal_Assignment.Models.Employee>
+@using EmployeePortal_Assignment.Models
+
+@{
+    ViewBag.Title = "SearchUser";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    var userData = Session["LoginCredentials"] as Employee;
+}
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<h2>Employees in your Department</h2>
+
+<script type="text/javascript">
+    function searchFunction() {
+       
+        var input, filter, table, tr, td, i;
+        input = document.getElementById("SearchInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("EmployeeTable");
+        tr = table.getElementsByTagName("tr");
+
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+                if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+  
+</script>
+
+
+
+<hr />
+
+<input type="text" id="SearchInput" onkeyup="searchFunction()" placeholder="Search Employees Name" class="form-control"><br />
+
+<table class="table" id="EmployeeTable">
+    <tr>
+        <th>
+            Employee Name
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOJ)
+        </th>
+        <th>Department Name</th>
+        <th>Location</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)&nbsp;@Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DOJ)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Location)
+        </td>
+    </tr>
+}
+
+</table>

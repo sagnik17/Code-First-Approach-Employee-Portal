@@ -1,0 +1,11 @@
+﻿@using EmployeePortal_Assignment.Models
+@{
+    ViewBag.Title = "Welcome";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    var userData = Session["LoginCredentials"] as Employee;
+}
+
+<h2>Welcome @userData.FirstName</h2>
+
+
+

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<EmployeePortal_Assignment.Models.Employee>
+
+@{
+    ViewBag.Title = "ShowAllEmpData";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>ShowAllEmpData</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOJ)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            Department Name
+        </th>
+        <th>
+            Location
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DOJ)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Location)
+        </td>
+        
+    </tr>
+}
+
+</table>
+<div>
+    @Html.ActionLink("Back To Menu", "Admin_Page", "Admin")
+</div>
+

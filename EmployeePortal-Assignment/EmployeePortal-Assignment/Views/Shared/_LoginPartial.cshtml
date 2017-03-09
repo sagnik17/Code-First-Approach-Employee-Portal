@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Session["LoginCredentials"] == null)
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "User_Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "UserLogin", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Logout", "Logout", "Account", routeValues: null, htmlAttributes: new { id = "logoutlink" })</li>
+    </ul>
+}

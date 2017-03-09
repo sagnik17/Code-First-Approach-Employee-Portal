@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Status_Page";
+}
+
+<h2>Status</h2>
+<hr />
+<br />
+@if (ViewBag.status_msg != null)
+{
+    <div class="alert alert-dismissible alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>Well done!</strong> Your <a href="#" class="alert-link">@ViewBag.status_msg</a>.
+    </div>
+}
+
