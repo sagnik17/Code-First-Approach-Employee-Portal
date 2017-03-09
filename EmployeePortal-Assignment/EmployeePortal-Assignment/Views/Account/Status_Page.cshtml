@@ -10,7 +10,8 @@
 {
     <div class="alert alert-dismissible alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <strong>Well done!</strong> Your <a href="#" class="alert-link">@ViewBag.status_msg</a>.
+        <strong>Well done!</strong> Your <a href="#" class="alert-link">@ViewBag.status_msg</a><br />
+        <strong>Click Here to @Html.ActionLink("Login", "UserLogin", "Account")</strong>
     </div>
 }
 

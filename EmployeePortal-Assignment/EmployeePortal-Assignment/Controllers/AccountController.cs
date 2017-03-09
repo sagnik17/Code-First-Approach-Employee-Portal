@@ -53,7 +53,7 @@ namespace EmployeePortal_Assignment.Controllers
                     UserName = _emp_Object.UserName,
                     Gender = _emp_Object.Gender,
                     EmailID = _emp_Object.EmailID,
-                    DOJ = RandomDay(),// DateTime.ParseExact("01/01/2017", "dd/MM/yyyy", null),
+                    DOJ = RandomDay(),
                     Password = _emp_Object.Password,
                     ConfirmPassword = _emp_Object.ConfirmPassword,
                     DeptRefId = deptid
@@ -64,6 +64,11 @@ namespace EmployeePortal_Assignment.Controllers
                 return RedirectToAction("Status_Page");
             }
             
+        }
+        public ActionResult Status_Page()
+        {
+            ViewBag.status_msg = TempData["status_msg"];
+            return View();
         }
         #endregion
 
@@ -423,11 +428,7 @@ namespace EmployeePortal_Assignment.Controllers
                 iterator = iterator.AddMonths(1);
             }
         }
-        public ActionResult Status_Page()
-        {
-            ViewBag.status_msg = TempData["status_msg"];
-            return View();
-        }
+        
         #endregion
     }
 }

@@ -568,6 +568,5 @@ C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePorta
 C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
 C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.dll
 C:\Users\v-sagsah\Source\Repos\Code-First-Approach-Employee-Portal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Debug\EmployeePortal-Assignment.pdb
