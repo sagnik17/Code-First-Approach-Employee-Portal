@@ -18,7 +18,7 @@ namespace EmployeePortal_Assignment.Controllers
         // GET: Admin
         public ActionResult Admin_Page()
         {
-            if (Session["LoginCredentials"] != null)
+            if (Session["Admin_LoginCredentials"] != null)
             {
                 return View();
             }

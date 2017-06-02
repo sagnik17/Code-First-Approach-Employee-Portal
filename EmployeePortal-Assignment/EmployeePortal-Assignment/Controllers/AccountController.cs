@@ -87,7 +87,7 @@ namespace EmployeePortal_Assignment.Controllers
 
             if(_empObj.UserName.Equals("admin") && _empObj.Password.Equals("admin"))
             {
-                Session["LoginCredentials"] = _empObj;
+                Session["Admin_LoginCredentials"] = _empObj;
                 return RedirectToAction("Admin_Page","Admin");
             }
             else if(LoginCredentials != null)
