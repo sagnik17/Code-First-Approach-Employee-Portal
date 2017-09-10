@@ -79,3 +79,4 @@ F:\EMP_Prtal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.O
 F:\EMP_Prtal\EmployeePortal-Assignment\EmployeePortal-Assignment\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\EMP_Prtal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Release\EmployeePortal-Assignment.dll
 F:\EMP_Prtal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Release\EmployeePortal-Assignment.pdb
+F:\EMP_Prtal\EmployeePortal-Assignment\EmployeePortal-Assignment\obj\Release\EmployeePortal-Assignment.csprojResolveAssemblyReference.cache
