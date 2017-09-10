@@ -73,24 +73,24 @@ namespace EmployeePortal_Assignment.Models
                         EmailID = "Kiran@gmail.com",
                      } } }
                 };
-               
+
                 foreach (Departments std in d)
                 {
                     context.Departments.Add(std);
-                    
+
                 }
-              
-                
-              
+
+
+
                 context.SaveChanges();
                 base.Seed(context);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw e;
             }
 
-            
+
         }
     }
 }
