@@ -28,42 +28,67 @@ namespace EmployeePortal_Assignment.Controllers
         }
 
         [HttpPost]
-        [Route("Account/Register")]
-        public ActionResult User_Register(Employee _emp_Object)
+        [Route("Account/doesUserNameExist")]
+        public JsonResult doesUserNameExist(string UserName)
         {
             var deptid = Convert.ToInt32(Request.Form["DeptId"]);
             var usrdata = (from data in _databaseObj.Employees
-                              where data.UserName == _emp_Object.UserName || data.EmailID == _emp_Object.EmailID
-                              select new { data.UserName }).FirstOrDefault();
-            
-            if(usrdata != null)
+                           where data.UserName == UserName
+                           select new { data.UserName }).FirstOrDefault();
+
+            if (usrdata != null)
             {
                 ViewBag.msg = "Username/Email ID already used !!!";
                 List<Departments> dplist = _databaseObj.Departments.ToList();
                 SelectList list = new SelectList(dplist, "DId", "Name");
                 ViewBag.DList = list;
-                return View();
+                return Json(usrdata == null);
             }
             else
             {
-                Employee _empData = new Employee()
-                {
-                    FirstName = _emp_Object.FirstName,
-                    LastName = _emp_Object.LastName,
-                    UserName = _emp_Object.UserName,
-                    Gender = _emp_Object.Gender,
-                    EmailID = _emp_Object.EmailID,
-                    DOJ = RandomDay(),
-                    Password = _emp_Object.Password,
-                    ConfirmPassword = _emp_Object.ConfirmPassword,
-                    DeptRefId = deptid
-                };
-                _databaseObj.Employees.Add(_empData);
-                _databaseObj.SaveChanges();
-                TempData["status_msg"] = "Registration Successful !!!";
-                return RedirectToAction("Status_Page");
+                return Json(usrdata == null);
             }
-            
+        }
+
+        [HttpPost]
+        [Route("Account/Register")]
+        public ActionResult User_Register(Employee _emp_Object)
+        {
+            var deptid = Convert.ToInt32(Request.Form["DeptId"]);
+            //var usrdata = (from data in _databaseObj.Employees
+            //                  where data.UserName == _emp_Object.UserName || data.EmailID == _emp_Object.EmailID
+            //                  select new { data.UserName }).FirstOrDefault();
+
+            //if(usrdata != null)
+            //{
+            //    ViewBag.msg = "Username/Email ID already used !!!";
+            //    List<Departments> dplist = _databaseObj.Departments.ToList();
+            //    SelectList list = new SelectList(dplist, "DId", "Name");
+            //    ViewBag.DList = list;
+            //    return View();
+            //}
+            //else
+            //{
+            Employee _empData = new Employee()
+            {
+                FirstName = _emp_Object.FirstName,
+                LastName = _emp_Object.LastName,
+                UserName = _emp_Object.UserName,
+                LoginUserName = _emp_Object.UserName,
+                Gender = _emp_Object.Gender,
+                EmailID = _emp_Object.EmailID,
+                DOJ = RandomDay(),
+                CreatedDate = DateTime.Now,
+                Password = _emp_Object.Password,
+                ConfirmPassword = _emp_Object.ConfirmPassword,
+                DeptRefId = deptid
+            };
+            _databaseObj.Employees.Add(_empData);
+            _databaseObj.SaveChanges();
+            TempData["status_msg"] = "Registration Successful !!!";
+            return RedirectToAction("Status_Page");
+            //}
+
         }
         public ActionResult Status_Page()
         {
@@ -83,20 +108,21 @@ namespace EmployeePortal_Assignment.Controllers
         [ActionName("UserLogin")]
         public ActionResult UserLogin(Employee _empObj)
         {
-            var LoginCredentials = _databaseObj.Employees.FirstOrDefault(emp => emp.UserName == _empObj.UserName && emp.Password == _empObj.Password);
+            var LoginCredentials = _databaseObj.Employees.FirstOrDefault(emp => emp.LoginUserName == _empObj.LoginUserName && emp.Password == _empObj.Password);
 
-            if(_empObj.UserName.Equals("admin") && _empObj.Password.Equals("admin"))
+            if (_empObj.LoginUserName.Equals("admin") && _empObj.Password.Equals("admin"))
             {
                 Session["Admin_LoginCredentials"] = _empObj;
-                return RedirectToAction("Admin_Page","Admin");
+                return RedirectToAction("Admin_Page", "Admin");
             }
-            else if(LoginCredentials != null)
+            else if (LoginCredentials != null)
             {
                 Session["LoginCredentials"] = LoginCredentials;
                 return RedirectToAction("Welcome");
             }
             else
             {
+                Session.Clear();
                 ViewBag.error = "Invalid Login Credentials";
                 return View();
             }
@@ -109,7 +135,7 @@ namespace EmployeePortal_Assignment.Controllers
         }
         public ActionResult Welcome()
         {
-            if(Session["LoginCredentials"] == null)
+            if (Session["LoginCredentials"] == null)
             {
                 return RedirectToAction("UserLogin");
             }
@@ -121,7 +147,7 @@ namespace EmployeePortal_Assignment.Controllers
 
         public ActionResult UserDetails()
         {
-            if(Session["LoginCredentials"] != null)
+            if (Session["LoginCredentials"] != null)
             {
                 var details = Session["LoginCredentials"] as Employee;
                 details.Department = _databaseObj.Departments.FirstOrDefault(dbo => dbo.DId == details.DeptRefId);
@@ -142,7 +168,7 @@ namespace EmployeePortal_Assignment.Controllers
             {
                 var details = Session["LoginCredentials"] as Employee;
                 details.Department = _databaseObj.Departments.FirstOrDefault(dbo => dbo.DId == details.DeptRefId);
-                
+
                 return View(details);
             }
             else
@@ -154,18 +180,18 @@ namespace EmployeePortal_Assignment.Controllers
         public ActionResult EditDetails(Employee _empObj)
         {
             Employee emp = (from e in _databaseObj.Employees
-                    where e.EmpId == _empObj.EmpId
-                    select e).First();
-            
-                    emp.FirstName = _empObj.FirstName;
-                    emp.LastName = _empObj.LastName;
-                    emp.UserName = _empObj.UserName;
-                    emp.Gender = _empObj.Gender;
-                    emp.EmailID = _empObj.EmailID;
-                Session["LoginCredentials"] = emp;
-                _databaseObj.SaveChanges();
-                TempData["EditStatus"] = "Your Profile Updated Successfully !!!";
-                return RedirectToAction("UserDetails");
+                            where e.EmpId == _empObj.EmpId
+                            select e).First();
+
+            emp.FirstName = _empObj.FirstName;
+            emp.LastName = _empObj.LastName;
+            emp.UserName = _empObj.UserName;
+            emp.Gender = _empObj.Gender;
+            emp.EmailID = _empObj.EmailID;
+            Session["LoginCredentials"] = emp;
+            _databaseObj.SaveChanges();
+            TempData["EditStatus"] = "Your Profile Updated Successfully !!!";
+            return RedirectToAction("UserDetails");
         }
 
         #endregion
@@ -187,17 +213,17 @@ namespace EmployeePortal_Assignment.Controllers
         [HttpPost]
         public ActionResult UpdatePassword(Employee _empObj)
         {
-                var empdetails = Session["LoginCredentials"] as Employee;
-                Employee emp = (from e in _databaseObj.Employees
-                                where e.EmpId == empdetails.EmpId
-                                select e).First();
-                emp.Password = _empObj.Password;
-                emp.ConfirmPassword = _empObj.ConfirmPassword;
-                Session["LoginCredentials"] = emp;
-                _databaseObj.SaveChanges();
-                TempData["EditStatus"] = "Your Password Updated Successfully !!!";
-                return RedirectToAction("UserDetails");
-                
+            var empdetails = Session["LoginCredentials"] as Employee;
+            Employee emp = (from e in _databaseObj.Employees
+                            where e.EmpId == empdetails.EmpId
+                            select e).First();
+            emp.Password = _empObj.Password;
+            emp.ConfirmPassword = _empObj.ConfirmPassword;
+            Session["LoginCredentials"] = emp;
+            _databaseObj.SaveChanges();
+            TempData["EditStatus"] = "Your Password Updated Successfully !!!";
+            return RedirectToAction("UserDetails");
+
         }
         #endregion
 
@@ -209,7 +235,7 @@ namespace EmployeePortal_Assignment.Controllers
             var _userList = (from e in _databaseObj.Employees
                              join d in _databaseObj.Departments on e.DeptRefId equals d.DId
                              where e.DeptRefId == LoginUserData.DeptRefId
-                             select new {e.FirstName, e.LastName,e.Gender, e.EmailID, e.DOJ, d.Name, d.Location });
+                             select new { e.FirstName, e.LastName, e.Gender, e.EmailID, e.DOJ, d.Name, d.Location });
 
             foreach (var userObj in _userList)
             {
@@ -252,7 +278,7 @@ namespace EmployeePortal_Assignment.Controllers
         #endregion
 
         #region Payslip Details
-        private void InsertPayslipDetails(Employee empData,DateTime date)
+        private void InsertPayslipDetails(Employee empData, DateTime date)
         {
             var obj = Session["LoginCredentials"] as Employee;
             var payslipDetails = (from emp in _databaseObj.Employees
@@ -262,7 +288,7 @@ namespace EmployeePortal_Assignment.Controllers
                                   select new
                                   { emp.FirstName }).FirstOrDefault();
 
-            if(payslipDetails == null)
+            if (payslipDetails == null)
             {
                 Random rnum = new Random();
                 int PFDeduction_rn = rnum.Next(300, 1000);
@@ -282,7 +308,7 @@ namespace EmployeePortal_Assignment.Controllers
                 _databaseObj.Payslips.Add(_payslipObj);
                 _databaseObj.SaveChanges();
             }
-           
+
         }
 
         [Route("Account/DisplayPaySlip")]
@@ -297,11 +323,11 @@ namespace EmployeePortal_Assignment.Controllers
                 {
                     for (int i = empData.DOJ.Month; i < DateTime.Now.Month; i++)
                     {
-                        if(i == 2)
+                        if (i == 2)
                         {
                             date = DateTime.ParseExact("28/0" + i + "/2017", "dd/MM/yyyy", null);
                         }
-                        else if(i==1 || i==3 || i==5 || i==7 || i==8 || i==10 || i==12)
+                        else if (i == 1 || i == 3 || i == 5 || i == 7 || i == 8 || i == 10 || i == 12)
                         {
                             date = DateTime.ParseExact("31/0" + i + "/2017", "dd/MM/yyyy", null);
                         }
@@ -309,7 +335,7 @@ namespace EmployeePortal_Assignment.Controllers
                         {
                             date = DateTime.ParseExact("30/0" + i + "/2017", "dd/MM/yyyy", null);
                         }
-                       
+
                         InsertPayslipDetails(empData, date);
                     }
                 }
@@ -347,7 +373,7 @@ namespace EmployeePortal_Assignment.Controllers
                                           slip.HouseRentAllowance,
                                           slip.TravelAllowance
                                       });
-               
+
                 PaySlip _payObj = new PaySlip();
                 _payObj.Employees = new Employee();
                 foreach (var temp in payslipDetails)
@@ -366,7 +392,7 @@ namespace EmployeePortal_Assignment.Controllers
                     _payObj.Bonus = temp.Bonus;
                 }
                 FillDropDown();
-                if(_payObj.BasicSalary != 0)
+                if (_payObj.BasicSalary != 0)
                 {
                     return View(_payObj);
                 }
@@ -375,7 +401,7 @@ namespace EmployeePortal_Assignment.Controllers
                     ViewBag.payslipMsg = "Pay SLip Not Generated Till Yet";
                     return View(_payObj);
                 }
-               
+
             }
             else
             {
@@ -404,7 +430,7 @@ namespace EmployeePortal_Assignment.Controllers
             ViewBag.months = listofMonths.GroupBy(o => o.Item1).Select(s => s.First()).Select(dbo => new SelectListItem { Text = dateTimeFormat.GetMonthName(dbo.Item1), Value = dbo.Item1.ToString() });
             ViewBag.Years = listofMonths.GroupBy(o => o.Item2).Select(s => s.First()).Select(dbo => new SelectListItem { Text = dbo.Item2.ToString(), Value = dbo.Item2.ToString() });
         }
-        private static IEnumerable<Tuple<int, int>> MonthsRange(DateTime startDate,DateTime endDate)
+        private static IEnumerable<Tuple<int, int>> MonthsRange(DateTime startDate, DateTime endDate)
         {
             DateTime iterator;
             DateTime limit;
@@ -428,7 +454,7 @@ namespace EmployeePortal_Assignment.Controllers
                 iterator = iterator.AddMonths(1);
             }
         }
-        
+
         #endregion
     }
 }

@@ -24,10 +24,12 @@ namespace EmployeePortal_Assignment.Models
                          FirstName = "Mark",
                         LastName = "Hastings",
                         UserName = "mark",
+                        LoginUserName = "mark",
                         Gender = "Male",
                         Password = "mark123",
                         ConfirmPassword = "mark123",
                         DOJ = Convert.ToDateTime("02/02/2017"),
+                        CreatedDate = DateTime.Now,
                         EmailID = "mark@hotmail.com",
                      } } },
                      new Departments {
@@ -38,10 +40,12 @@ namespace EmployeePortal_Assignment.Models
                          FirstName = "Sonam",
                         LastName = "Gupta",
                         UserName = "Sonam",
+                        LoginUserName = "Sonam",
                         Gender = "Female",
                         Password = "Sonam",
                         ConfirmPassword = "Sonam",
                         DOJ = Convert.ToDateTime("01/01/2017"),
+                        CreatedDate = DateTime.Now,
                         EmailID = "Sonam@yahoo.com",
                      } } },
                      new Departments {
@@ -52,10 +56,12 @@ namespace EmployeePortal_Assignment.Models
                          FirstName = "Fahim",
                         LastName = "Bhatt",
                         UserName = "Fahim",
+                        LoginUserName = "Fahim",
                         Gender = "Male",
                         Password = "fahim",
                         ConfirmPassword = "fahim",
                         DOJ = Convert.ToDateTime("01/01/2017"),
+                        CreatedDate = DateTime.Now,
                         EmailID = "Fahim@yahoo.com",
                      } } },
                      new Departments {
@@ -63,13 +69,15 @@ namespace EmployeePortal_Assignment.Models
                      Employees = new List<Employee>() {
                      new Employee()
                      {
-                         FirstName = "Kiran",
+                        FirstName = "Kiran",
                         LastName = "Sahu",
                         UserName = "Kiran",
+                        LoginUserName = "Kiran",
                         Gender = "Male",
                         Password = "Kiran",
                         ConfirmPassword = "Kiran",
                         DOJ = Convert.ToDateTime("01/01/2017"),
+                        CreatedDate = DateTime.Now,
                         EmailID = "Kiran@gmail.com",
                      } } }
                 };

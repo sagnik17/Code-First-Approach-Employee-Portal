@@ -1,5 +1,5 @@
 ﻿@using Microsoft.AspNet.Identity
-@if (Session["LoginCredentials"] == null || Session["Admin_LoginCredentials"] == null)
+@if (Session["LoginCredentials"] == null && Session["Admin_LoginCredentials"] == null)
 {
     <ul class="nav navbar-nav navbar-right">
         <li>@Html.ActionLink("Register", "User_Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
