@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EmployeePortal-Assignment/.vs/EmployeePortal-Assignment/v15
+/EmployeePortal-Assignment/EmployeePortal-Assignment/obj/Debug
